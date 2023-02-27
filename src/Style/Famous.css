@@ -1,0 +1,30 @@
+
+
+.famous-content{
+    top: 10%;
+    left: 10%;
+}
+.famous-content h5{
+
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 7px;
+}
+.famous-content{
+    font-size: 26px;
+    line-height: 38px;
+    font-weight: 500;
+    color: #fff;
+}
+.famous-content p{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 100;
+    color: #fff;
+}
+.famous-card img{
+    border-radius: 10px;
+    width: 313px;
+}

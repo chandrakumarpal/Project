@@ -1,0 +1,19 @@
+.special-product-card{
+    padding: 20px 16px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.product-count{
+   padding-top: 100px;
+   position: relative;
+   right: 100px;
+   
+}
+.progress{
+    position: relative;
+    right: 80px;
+    
+}
+.badges {
+    background-color: #fc353c00;
+}

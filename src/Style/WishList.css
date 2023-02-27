@@ -1,0 +1,22 @@
+.wishlist-card>img{
+    width: 8%;
+    top: 8%;
+    right: 8%;
+    cursor: pointer;
+}
+.wishlist-card{
+    background-color: #fff;
+}
+.wishlist-card .title{
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 500;
+    color: var(--color-1c1c1b);
+
+}
+.wishlist-card .price{
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 500;
+    color: var(--color-1c1c1b);
+}

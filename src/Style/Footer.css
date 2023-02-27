@@ -1,0 +1,14 @@
+footer{
+    background-color: var(--color-232f3e);
+}
+.gap-30{
+    gap:30px;
+}
+.lastfooter{
+    border-top: 1px solid var(--color-3b4149);
+}
+.buttfoot{
+    background-color: var(--color-232f3e);
+    color: white;
+    height: 40px;
+}
